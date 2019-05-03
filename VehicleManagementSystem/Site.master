@@ -57,7 +57,7 @@
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul class="nav navbar-nav navbar-right">
-                                <li><a runat="server" href="~/VehicleManagementSystem/Register.aspx">注册</a></li>
+                                <li><a runat="server" href="~/VehicleManage/Register.aspx">注册</a></li>
                                 <li><a runat="server" href="~/Account/Login">登录</a></li>
                             </ul>
                         </AnonymousTemplate>

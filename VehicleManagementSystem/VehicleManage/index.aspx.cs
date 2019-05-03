@@ -25,7 +25,7 @@ public partial class Default2 : System.Web.UI.Page
             if (user != null)
             {
                 IdentityHelper.SignIn(manager, user, false);
-                IdentityHelper.RedirectToReturnUrl("~/VehicleManagementSystem/HomePage.aspx", Response);
+                IdentityHelper.RedirectToReturnUrl("~/VehicleManage/HomePage.aspx", Response);
             }
             else
             {
