@@ -10,8 +10,6 @@ public class Driver
 {
     public Driver()
     {
-        //
-        // TODO: 在此处添加构造函数逻辑
-        //
+        ;
     }
 }
